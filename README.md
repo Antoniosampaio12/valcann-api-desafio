@@ -16,7 +16,7 @@ A API suporta **paginação, filtros, busca, ordenação e consulta por ID**.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/antoniosampaio12/valcann-api-desafio.git
+   git clone https://github.com/Antoniosampaio12/valcann-api-desafio.git
 
    cd valcann-api-desafio/api
 
@@ -33,6 +33,7 @@ A API suporta **paginação, filtros, busca, ordenação e consulta por ID**.
    curl "http://127.0.0.1:3333/users?is_active=true"
    curl "http://127.0.0.1:3333/users/1"
 ```
+
 
 
 
